@@ -1,13 +1,13 @@
 ![MasterHead](https://i.pinimg.com/originals/b9/8f/b1/b98fb1cb16fc0dfe8a15f0a3d018552e.gif)
 <h1 align="center">Hi 👋, I'm Sang Bimo Raharjoning Leksono</h1>
-<h3 align="center">A passionate Full-Stack Developer, UI/UX, Multi-Platform Developer, and Game Developer from Indonesia</h3>
+<h3 align="center">A passionate Full-Stack Developer and UI/UX from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/f0e3595cc6bdcc42f9b4bee2440b4f9e/72a6573604b15aaa-c9/s540x810/c88ce7272f4bbe0b760c05ba0af90d45125fae13.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mooooimo&label=Profile%20views&color=0e75b6&style=flat" alt="mooooimo" /> </p>
 
 - 🔭 I’m currently studying on **SMK Negeri 8 Semarang**
 
-- 🌱 I’m currently learning **Haskell and Flutter**
+- 🌱 I’m currently learning **Haskell and Full-Stack Development**
 
 - 💬 Ask me about **Figma, Web Development, and music!**
 
